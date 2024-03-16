@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackWebApi", "HackWebApi.csproj", "{99F2A5FE-B53E-4C19-A74F-2846F0DFF829}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumer", "..\Consumer\Consumer.csproj", "{6F4B30F3-1050-4359-B1F6-BB2794275256}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99F2A5FE-B53E-4C19-A74F-2846F0DFF829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F2A5FE-B53E-4C19-A74F-2846F0DFF829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F2A5FE-B53E-4C19-A74F-2846F0DFF829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F2A5FE-B53E-4C19-A74F-2846F0DFF829}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F4B30F3-1050-4359-B1F6-BB2794275256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F4B30F3-1050-4359-B1F6-BB2794275256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F4B30F3-1050-4359-B1F6-BB2794275256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F4B30F3-1050-4359-B1F6-BB2794275256}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96F240C1-9D90-4537-BB96-DD96B549A441}
+	EndGlobalSection
+EndGlobal
